@@ -1,6 +1,6 @@
 
-Clone the repo
+Clone the repo and enter in it
 
-inside the folder, paste:
+in the terminal, paste:
 
 pip install -r requirements.txt
